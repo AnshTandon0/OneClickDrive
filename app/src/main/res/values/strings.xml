@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OneClickDrive</string>
+    <string name="calculate">Calculate</string>
+    <string name="oneclickdrive">OneClickDrive</string>
+    <string name="textbox1">Textbox1</string>
+    <string name="textbox2">Textbox2</string>
+    <string name="textbox3">Textbox3</string>
+    <string name="common_elements">Common Elements</string>
+    <string name="union">Union</string>
+    <string name="intersection">Intersection</string>
+    <string name="highest">Highest</string>
+</resources>
